@@ -1,0 +1,25 @@
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.iml
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+~$*
+
+# Arquivos de backup/exportação de bancos de dados
+*.sql~
+*.dump
+*.bak.sql
+
+# Configurações locais e credenciais
+.env
+.env.*
+!.env.example
